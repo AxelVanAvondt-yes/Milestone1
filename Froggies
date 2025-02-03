@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Red-Eyed Tree Frog",
+    "description": "A colorful frog known for its bright red eyes and green body.",
+    "age": 3,
+    "active": true,
+    "birthdate": "2021-04-15",
+    "profileImage": "https://example.com/images/red_eyed_tree_frog.jpg",
+    "status": "active",
+    "hobbies": ["climbing", "jumping", "hiding"],
+    "habitat": {
+      "id": 201,
+      "environment": "Tropical rainforest",
+      "temperature": "Warm",
+      "humidity": "High",
+      "location": "Central America"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bullfrog",
+    "description": "A large, aggressive frog that is known for its deep croak.",
+    "age": 5,
+    "active": false,
+    "birthdate": "2018-06-10",
+    "profileImage": "https://example.com/images/bullfrog.jpg",
+    "status": "inactive",
+    "hobbies": ["swimming", "croaking", "hunting"],
+    "habitat": {
+      "id": 202,
+      "environment": "Ponds and lakes",
+      "temperature": "Moderate",
+      "humidity": "Low",
+      "location": "North America"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Poison Dart Frog",
+    "description": "Known for their vibrant colors and toxic skin secretions.",
+    "age": 2,
+    "active": true,
+    "birthdate": "2022-01-30",
+    "profileImage": "https://example.com/images/poison_dart_frog.jpg",
+    "status": "active",
+    "hobbies": ["hunting insects", "hiding in foliage"],
+    "habitat": {
+      "id": 203,
+      "environment": "Tropical rainforest",
+      "temperature": "Warm",
+      "humidity": "High",
+      "location": "South America"
+    }
+  },
+  {
+    "id": 4,
+    "name": "African Bullfrog",
+    "description": "A large, burrowing frog found in Africa, known for its robust and aggressive nature.",
+    "age": 4,
+    "active": true,
+    "birthdate": "2019-09-05",
+    "profileImage": "https://example.com/images/african_bullfrog.jpg",
+    "status": "active",
+    "hobbies": ["digging", "eating", "sleeping"],
+    "habitat": {
+      "id": 204,
+      "environment": "Savannah",
+      "temperature": "Warm",
+      "humidity": "Low",
+      "location": "Africa"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Glass Frog",
+    "description": "Named for their translucent skin, which makes their internal organs visible.",
+    "age": 1,
+    "active": false,
+    "birthdate": "2024-03-20",
+    "profileImage": "https://example.com/images/glass_frog.jpg",
+    "status": "inactive",
+    "hobbies": ["climbing trees", "hiding under leaves"],
+    "habitat": {
+      "id": 205,
+      "environment": "Tropical forests",
+      "temperature": "Warm",
+      "humidity": "High",
+      "location": "Central and South America"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Leopard Frog",
+    "description": "Named for its distinctive spots, the leopard frog is a common species in North America.",
+    "age": 3,
+    "active": true,
+    "birthdate": "2021-02-14",
+    "profileImage": "https://example.com/images/leopard_frog.jpg",
+    "status": "active",
+    "hobbies": ["jumping", "swimming", "catching insects"],
+    "habitat": {
+      "id": 206,
+      "environment": "Wetlands and ponds",
+      "temperature": "Moderate",
+      "humidity": "Medium",
+      "location": "North America"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Goliath Frog",
+    "description": "The largest frog in the world, native to Central Africa.",
+    "age": 7,
+    "active": true,
+    "birthdate": "2017-11-23",
+    "profileImage": "https://example.com/images/goliath_frog.jpg",
+    "status": "active",
+    "hobbies": ["swimming", "eating", "resting"],
+    "habitat": {
+      "id": 207,
+      "environment": "Rivers and streams",
+      "temperature": "Warm",
+      "humidity": "High",
+      "location": "Central Africa"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wood Frog",
+    "description": "A hardy frog found in colder climates, known for its ability to survive freezing temperatures.",
+    "age": 6,
+    "active": false,
+    "birthdate": "2018-10-09",
+    "profileImage": "https://example.com/images/wood_frog.jpg",
+    "status": "inactive",
+    "hobbies": ["hibernating", "swimming", "croaking"],
+    "habitat": {
+      "id": 208,
+      "environment": "Woodlands and wetlands",
+      "temperature": "Cold",
+      "humidity": "Low",
+      "location": "North America"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Clawed Frog",
+    "description": "An aquatic frog with claws on its back feet, native to Africa.",
+    "age": 2,
+    "active": true,
+    "birthdate": "2023-08-12",
+    "profileImage": "https://example.com/images/clawed_frog.jpg",
+    "status": "active",
+    "hobbies": ["swimming", "hunting aquatic insects"],
+    "habitat": {
+      "id": 209,
+      "environment": "Lakes and ponds",
+      "temperature": "Moderate",
+      "humidity": "Medium",
+      "location": "Africa"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Woodhouse's Toad",
+    "description": "A toad species found in the central United States, known for its large size.",
+    "age": 4,
+    "active": true,
+    "birthdate": "2019-07-19",
+    "profileImage": "https://example.com/images/woodhouses_toad.jpg",
+    "status": "active",
+    "hobbies": ["burrowing", "catching insects"],
+    "habitat": {
+      "id": 210,
+      "environment": "Grasslands and forests",
+      "temperature": "Moderate",
+      "humidity": "Low",
+      "location": "United States"
+    }
+  }
+]
