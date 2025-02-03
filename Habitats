@@ -1,0 +1,72 @@
+[
+  {
+    "id": 201,
+    "environment": "Tropical rainforest",
+    "temperature": "Warm",
+    "humidity": "High",
+    "location": "Central America"
+  },
+  {
+    "id": 202,
+    "environment": "Ponds and lakes",
+    "temperature": "Moderate",
+    "humidity": "Low",
+    "location": "North America"
+  },
+  {
+    "id": 203,
+    "environment": "Tropical rainforest",
+    "temperature": "Warm",
+    "humidity": "High",
+    "location": "South America"
+  },
+  {
+    "id": 204,
+    "environment": "Savannah",
+    "temperature": "Warm",
+    "humidity": "Low",
+    "location": "Africa"
+  },
+  {
+    "id": 205,
+    "environment": "Tropical forests",
+    "temperature": "Warm",
+    "humidity": "High",
+    "location": "Central and South America"
+  },
+  {
+    "id": 206,
+    "environment": "Wetlands and ponds",
+    "temperature": "Moderate",
+    "humidity": "Medium",
+    "location": "North America"
+  },
+  {
+    "id": 207,
+    "environment": "Rivers and streams",
+    "temperature": "Warm",
+    "humidity": "High",
+    "location": "Central Africa"
+  },
+  {
+    "id": 208,
+    "environment": "Woodlands and wetlands",
+    "temperature": "Cold",
+    "humidity": "Low",
+    "location": "North America"
+  },
+  {
+    "id": 209,
+    "environment": "Lakes and ponds",
+    "temperature": "Moderate",
+    "humidity": "Medium",
+    "location": "Africa"
+  },
+  {
+    "id": 210,
+    "environment": "Grasslands and forests",
+    "temperature": "Moderate",
+    "humidity": "Low",
+    "location": "United States"
+  }
+]
